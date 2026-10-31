@@ -1,0 +1,14 @@
+/home/user/csharp/2D/bin/Debug/net10.0/2D
+/home/user/csharp/2D/bin/Debug/net10.0/2D.deps.json
+/home/user/csharp/2D/bin/Debug/net10.0/2D.runtimeconfig.json
+/home/user/csharp/2D/bin/Debug/net10.0/2D.dll
+/home/user/csharp/2D/bin/Debug/net10.0/2D.pdb
+/home/user/csharp/2D/obj/Debug/net10.0/2D.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/csharp/2D/obj/Debug/net10.0/2D.AssemblyInfoInputs.cache
+/home/user/csharp/2D/obj/Debug/net10.0/2D.AssemblyInfo.cs
+/home/user/csharp/2D/obj/Debug/net10.0/2D.csproj.CoreCompileInputs.cache
+/home/user/csharp/2D/obj/Debug/net10.0/2D.dll
+/home/user/csharp/2D/obj/Debug/net10.0/refint/2D.dll
+/home/user/csharp/2D/obj/Debug/net10.0/2D.pdb
+/home/user/csharp/2D/obj/Debug/net10.0/2D.genruntimeconfig.cache
+/home/user/csharp/2D/obj/Debug/net10.0/ref/2D.dll
