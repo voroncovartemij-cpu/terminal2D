@@ -209,7 +209,7 @@ static class D2
                     if (FunctionalBlocks[i].Positions.Contains(futurepos))
                     {
                         FunctionalBlocks[i].Funct();
-                        if (!FunctionalBlocks[i].IsWalkable)
+                        if (FunctionalBlocks[i].IsWalkable)
                         {
                             Chr = new Pos(futurepos.X, futurepos.Y);
                         }
