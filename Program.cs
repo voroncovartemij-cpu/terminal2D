@@ -16,7 +16,6 @@ static void Teleportation(TwoDism.Character character)
 
 TwoDism.AddBlock(
     new(
-        1,
         '#',
         ConsoleColor.Red,
         [new TwoDism.Pos(10, 10)],
@@ -27,7 +26,6 @@ TwoDism.AddBlock(
 );
 TwoDism.AddBlock(
     new(
-        2,
         '$',
         ConsoleColor.Green,
         [new TwoDism.Pos(20, 10)],
@@ -38,7 +36,6 @@ TwoDism.AddBlock(
 );
 TwoDism.AddBlock(
     new(
-        3,
         '%',
         ConsoleColor.Yellow,
         [new TwoDism.Pos(30, 10)],
@@ -49,7 +46,6 @@ TwoDism.AddBlock(
 );
 TwoDism.AddBlock(
     new(
-        4,
         '~',
         ConsoleColor.Blue,
         [new TwoDism.Pos(40, 10)],
@@ -60,7 +56,6 @@ TwoDism.AddBlock(
 );
 TwoDism.AddBlock(
     new(
-        5,
         '0',
         ConsoleColor.Cyan,
         [new TwoDism.Pos(50, 10)],
@@ -69,5 +64,6 @@ TwoDism.AddBlock(
         false
     )
 );
-
+TwoDism.Start();
+TwoDism.ClearAll();
 TwoDism.Start();
